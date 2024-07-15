@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 1em 0;
+    text-align: center;
+}
+
+header button {
+    background: #fff;
+    color: #333;
+    border: none;
+    padding: 0.5em 1em;
+    cursor: pointer;
+}
+
+.intro, .why-web-development, .inspiration, .current-target, .next-target, .support {
+    background: #fff;
+    margin: 1em;
+    padding: 1em;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.intro img {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+    height: auto;
+}
+
+.intro h2, .why-web-development h2, .inspiration h2, .current-target h2, .next-target h2, .support h2 {
+    text-align: center;
+}
+
+.why-web-development article, .current-target .targets div, .next-target .targets div {
+    margin: 1em 0;
+    text-align: center;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.social-media a {
+    color: #fff;
+    margin: 0 1em;
+    text-decoration: none;
+}
+/* Desktop - 1 */
+position: relative;
+width: 1440px;
+height: 5245px;
+
+.site-name {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+.download-resume button {
+    
+    font-size: 16px;
+    padding: 10px 20px;
+    border: 1px solid #333;
+    background-color: #fff;
+    color: #333;
+    cursor: pointer;
+    background-color: #333;
+    color: #fff;
+    
+}
+
+
+    
